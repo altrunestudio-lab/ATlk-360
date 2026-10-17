@@ -1,446 +1,6 @@
 {
   "scenes": [
     {
-      "label": "At Outhouse Colonnade",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "At Outhouse ",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "At Path",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "Outhouse Entrance",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "Outhouse entrance gate",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "Outhouse front",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "At The Park",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "Top Floor Pergola",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "At Top floor Edge",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "At fountain",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
       "label": "Entrance Road",
       "stereo": false,
       "spherical": false,
@@ -477,50 +37,6 @@
         },
         {
           "url": "../media/panorama_41043A87_4A20_1406_41C1_AD9A9D59C9BE_0/b/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        }
-      ],
-      "faceSize": 1536
-    },
-    {
-      "label": "Top Floor Entrance",
-      "stereo": false,
-      "spherical": false,
-      "faces": [
-        {
-          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/r/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/l/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/u/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/d/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/f/2/{row}_{column}.jpg",
-          "rows": 3,
-          "columns": 3,
-          "size": 1536
-        },
-        {
-          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/b/2/{row}_{column}.jpg",
           "rows": 3,
           "columns": 3,
           "size": 1536
@@ -573,6 +89,314 @@
       "faceSize": 1536
     },
     {
+      "label": "At fountain",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410ED956_4A20_7406_417C_00ECAF1FA019_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "At Path",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4108A629_4A20_3C0A_41C4_2EF409AEBC4A_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "At Outhouse ",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_410243BF_4A20_F406_41CE_D46C69F8AD8B_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "Outhouse Entrance",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413A8C26_4A20_0C06_41C2_0A677E60CC3E_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "Outhouse front",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413E4678_4A20_1C0A_41CD_2DB4F8C59844_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "Outhouse entrance gate",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413C205C_4A20_140A_41C8_CDA6F2445819_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "At Outhouse Colonnade",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_413CA8DA_4A20_340E_41AD_76C71EE48320_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
       "label": "At Outhouse Colonnade 2",
       "stereo": false,
       "spherical": false,
@@ -609,6 +433,182 @@
         },
         {
           "url": "../media/panorama_410182DA_4A20_740E_41C2_C5EE6E1FB0A8_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "Top Floor Entrance",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41033B46_4A20_1406_41CC_9F793DAB7FA8_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "At Top floor Edge",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_4100D3F2_4A20_141E_41BD_D8C81EB95879_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "Top Floor Pergola",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41243B32_4A20_741F_418D_5F300BB9AA93_0/b/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        }
+      ],
+      "faceSize": 1536
+    },
+    {
+      "label": "At The Park",
+      "stereo": false,
+      "spherical": false,
+      "faces": [
+        {
+          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/r/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/l/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/u/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/d/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/f/2/{row}_{column}.jpg",
+          "rows": 3,
+          "columns": 3,
+          "size": 1536
+        },
+        {
+          "url": "../media/panorama_41C1619A_4A20_340E_41CE_0C5000B173F0_0/b/2/{row}_{column}.jpg",
           "rows": 3,
           "columns": 3,
           "size": 1536
